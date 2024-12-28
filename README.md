@@ -1,4 +1,3 @@
-![alt text]((https://pbs.twimg.com/media/Gf2goKUWkAAeM1p?format=jpg&name=large))
 # Hina
 
 Hina is an Agent built using Zerepy frameowk, powered by OpenAI or Anthropic LLMs.
