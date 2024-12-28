@@ -1,6 +1,6 @@
 # Hina
 
-ZerePy is an Agent built using Zerepy frameowk, powered by OpenAI or Anthropic LLMs.
+Hina is an Agent built using Zerepy frameowk, powered by OpenAI or Anthropic LLMs.
 
 
 ## Features
