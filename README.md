@@ -1,9 +1,7 @@
-# ZerePy
+# Hina
 
-ZerePy is an open-source Python framework designed to let you deploy your own agents on X, powered by OpenAI or Anthropic LLMs.
+ZerePy is an Agent built using Zerepy frameowk, powered by OpenAI or Anthropic LLMs.
 
-ZerePy is built from a modularized version of the Zerebro backend. With ZerePy, you can launch your own agent with 
-similar core functionality as Zerebro. For creative outputs, you'll need to fine-tune your own model.
 
 ## Features
 - CLI interface for managing agents
@@ -11,15 +9,6 @@ similar core functionality as Zerebro. For creative outputs, you'll need to fine
 - OpenAI/Anthropic LLM support
 - Modular connection system
 
-## Quickstart
-
-The quickest way to start using ZerePy is to use our Replit template:
-
-https://replit.com/@blormdev/ZerePy?v=1
-
-1. Fork the template (you will need you own Replit account)
-2. Click the run button on top
-3. Voila! your CLI should be ready to use, you can jump to the configuration section
 
 ## Requirements
 
@@ -34,28 +23,7 @@ API keys:
   - Social:
       + X API, make an account and grab the key and secret: https://developer.x.com/en/docs/authentication/oauth-1-0a/api-key-and-secret
 
-## Installation
 
-1. First, install Poetry for dependency management if you haven't already:
-
-Follow the steps here to use the official installation: https://python-poetry.org/docs/#installing-with-the-official-installer
-
-2. Clone the repository:
-```bash
-git clone https://github.com/blorm-network/ZerePy.git
-```
-
-3. Go to the `zerepy` directory:
-```bash
-cd zerepy
-```
-
-4. Install dependencies:
-```bash
-poetry install --no-root
-```
-
-This will create a virtual environment and install all required dependencies.
 
 ## Usage
 
